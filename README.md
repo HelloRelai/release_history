@@ -1,3 +1,22 @@
+# v1.4.11
+
+Released on June 24th 2021
+
+## What's new
+
+### EN
+- correct exchange rate
+
+### FR
+- correct taux de change
+
+### IT
+- correzione del tasso di cambio
+
+### DE
+- korrekte Wechselkurse
+
+
 # v1.4.10
 
 Released on June 21st 2021
